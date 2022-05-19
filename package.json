@@ -13,6 +13,10 @@
   },
   "author": "Cinapsis",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TonyOne526/cinapsis-test-camera.git"
+  },
   "keywords": [
     "cordova",
     "camera",
